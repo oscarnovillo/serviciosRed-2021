@@ -10,5 +10,7 @@
 - **router linux** sysctl -w net.ipv4.ip_forward=1 , permanente editar net.ipv4.ip_forward = 1  en /etc/sysctl.conf y reiniciar sysctl -p /etc/sysctl.conf
 - **renew ip de un dhcp**: sudo dhclient -r
 - **Ver el dns server**: sudo systemd-resolve --status , cat /etc/resolv.conf
+- **Ver log servicios**: sudo journalctl -u isc-dhcp-server
+
 
 
