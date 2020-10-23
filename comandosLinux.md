@@ -1,5 +1,7 @@
 # **comandos de linux utilies**
 
+- **cambiar nombre de maquina**: sudo nano /etc/hostname
+- **añadir usuario sudoer**: sudo adduser XXX ; sudo addgroup XXX sudo
 - **ip a** : ver la ip de la maquina 
 - **ip route** : ver la tabla de rutas
 - **ss -ltnp** : ver puertos abiertos
