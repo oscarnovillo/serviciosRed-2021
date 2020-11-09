@@ -1,5 +1,28 @@
 # DNS
+- ## teoria
+  - distintos tipos de registo:
+    - A ,AAAA
+    - CNAME
+    - MX
+    - SOA
+    - TXT
+    - SRV
+  - Organizacion en zonas
+  - distintas zonas, directa e inversa
+  - Cache de peticiones
 - ## peticiones de cliente
-- ## cache de cliente
+  - herramientas para hacer peticiones
+    - nslookup
+    - dig
+    - systemd-resolve
+  - servidores publicos
+  - cache de cliente
 - ## servidor de cache dnsmasq
-- ## servidor bind9
+  - configuracion
+  - forwarders
+- ## servidor bind9, y microsoft server 2016
+  - forwarders
+  - creacion de zona directa
+  - creacion de zona inversa
+  - delegación de zona a otro servidor
+  
