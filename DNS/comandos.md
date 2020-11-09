@@ -3,7 +3,13 @@
   - server  ip
   - set debug=true
   - set type=XX
-- dig
--systemd-resolve
+- dig ip
+  - dig @ipserver ip TYPE
+- systemd-resolve
   - --status para ver los datos de configuracion de DNS
   - 
+- caches
+  - limpiar cache ubuntu: sudo systemd-resolve --flush-caches
+  - limpiar cache windows: ipconfig /dnsflush
+  - ver cache windows: ipconfig /displaydns
+  - ver cache linux: ****
