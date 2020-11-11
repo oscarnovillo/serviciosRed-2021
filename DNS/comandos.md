@@ -5,6 +5,7 @@
   - set type=XX
 - dig ip
   - dig @ipserver ip TYPE
+  - dig -x para busquedas inversas
 - systemd-resolve
   - --status para ver los datos de configuracion de DNS
   - 
