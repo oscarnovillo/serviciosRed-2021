@@ -5,6 +5,7 @@
     - CNAME
     - MX
     - SOA
+    - NS
     - TXT
     - SRV
   - Organizacion en zonas
