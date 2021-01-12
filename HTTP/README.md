@@ -6,3 +6,11 @@
   - Directorios
 - Authorization y control de acceso
 
+- alias carpetas
+
+- HTTPS
+
+- Proxy inverso,
+
+- PHP
+
