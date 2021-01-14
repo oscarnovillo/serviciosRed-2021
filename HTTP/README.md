@@ -17,3 +17,9 @@ https://deliciousbrains.com/ssl-certificate-authority-for-local-https-developmen
 - PHP
 https://www.serverlab.ca/tutorials/linux/web-servers-linux/installing-php-for-apache-on-ubuntu/
 
+
+<?php
+phpinfo();
+?>
+
+
