@@ -13,6 +13,7 @@ https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl
 https://deliciousbrains.com/ssl-certificate-authority-for-local-https-development/
 
 - Proxy inverso,
+https://kinsta.com/es/blog/proxy-inverso/
 
 - PHP
 https://www.serverlab.ca/tutorials/linux/web-servers-linux/installing-php-for-apache-on-ubuntu/
