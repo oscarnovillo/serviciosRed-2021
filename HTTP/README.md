@@ -8,6 +8,9 @@
 
 - alias carpetas
 
+- Opciones Directory Apache
+https://cwiki.apache.org/confluence/display/HTTPD/DirectoryListings
+
 - HTTPS
 https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-apache-in-ubuntu-20-04
 https://deliciousbrains.com/ssl-certificate-authority-for-local-https-development/
